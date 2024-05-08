@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar Maurya</h1>
-<h3 align="center">A passionate Java & Flutter Developer from India</h3>
+<h3 align="center">A passionate Java Developer & Flutter Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajmaurya112111&label=Profile%20views&color=0e75b6&style=flat" alt="surajmaurya112111" /> </p>
